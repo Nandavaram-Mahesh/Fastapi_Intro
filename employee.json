@@ -925,17 +925,6 @@
       "status": "active"
     },
     {
-      "id": 85,
-      "firstName": "James",
-      "lastName": "Cameron",
-      "email": "james.cameronh@company.com",
-      "department": "Engineering",
-      "position": "Senior Developer",
-      "salary": 120000,
-      "startDate": "2019-03-15",
-      "status": "active"
-    },
-    {
       "id": 86,
       "firstName": "Swamy",
       "lastName": "Govindha",
